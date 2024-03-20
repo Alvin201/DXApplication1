@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "hfSXbcNmWVuzq39EEWMU96stcR5d+ieGrh/v0zxq3jI=",
+  "Hash": "O7kkBoNdtppqagZ8JDH3wHIKevH24Xnerp/razU2WX0=",
   "Source": "DXApplication1.Blazor.Server",
   "BasePath": "_content/DXApplication1.Blazor.Server",
   "Mode": "Default",
@@ -10,7 +10,7 @@
     {
       "Name": "DXApplication1.Blazor.Server\\wwwroot",
       "Source": "DXApplication1.Blazor.Server",
-      "ContentRoot": "C:\\Users\\chels\\source\\repos\\DXApplication1\\DXApplication1.Blazor.Server\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\chels\\Desktop\\DXApplication1\\DXApplication1.Blazor.Server\\wwwroot\\",
       "BasePath": "_content/DXApplication1.Blazor.Server",
       "Pattern": "**"
     }
@@ -3437,10 +3437,10 @@
       "OriginalItemSpec": "C:\\Program Files\\DevExpress 23.2\\Components\\Offline Packages\\devexpress.expressapp.blazor\\23.2.5\\staticwebassets\\styles.css"
     },
     {
-      "Identity": "C:\\Users\\chels\\source\\repos\\DXApplication1\\DXApplication1.Blazor.Server\\wwwroot\\css\\site.css",
+      "Identity": "C:\\Users\\chels\\Desktop\\DXApplication1\\DXApplication1.Blazor.Server\\wwwroot\\css\\site.css",
       "SourceId": "DXApplication1.Blazor.Server",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\chels\\source\\repos\\DXApplication1\\DXApplication1.Blazor.Server\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\chels\\Desktop\\DXApplication1\\DXApplication1.Blazor.Server\\wwwroot\\",
       "BasePath": "_content/DXApplication1.Blazor.Server",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -3456,10 +3456,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "C:\\Users\\chels\\source\\repos\\DXApplication1\\DXApplication1.Blazor.Server\\wwwroot\\favicon.ico",
+      "Identity": "C:\\Users\\chels\\Desktop\\DXApplication1\\DXApplication1.Blazor.Server\\wwwroot\\favicon.ico",
       "SourceId": "DXApplication1.Blazor.Server",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\chels\\source\\repos\\DXApplication1\\DXApplication1.Blazor.Server\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\chels\\Desktop\\DXApplication1\\DXApplication1.Blazor.Server\\wwwroot\\",
       "BasePath": "_content/DXApplication1.Blazor.Server",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -3475,10 +3475,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\chels\\source\\repos\\DXApplication1\\DXApplication1.Blazor.Server\\wwwroot\\images\\Logo.svg",
+      "Identity": "C:\\Users\\chels\\Desktop\\DXApplication1\\DXApplication1.Blazor.Server\\wwwroot\\images\\Logo.svg",
       "SourceId": "DXApplication1.Blazor.Server",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\chels\\source\\repos\\DXApplication1\\DXApplication1.Blazor.Server\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\chels\\Desktop\\DXApplication1\\DXApplication1.Blazor.Server\\wwwroot\\",
       "BasePath": "_content/DXApplication1.Blazor.Server",
       "RelativePath": "images/Logo.svg",
       "AssetKind": "All",
@@ -3494,10 +3494,10 @@
       "OriginalItemSpec": "wwwroot\\images\\Logo.svg"
     },
     {
-      "Identity": "C:\\Users\\chels\\source\\repos\\DXApplication1\\DXApplication1.Blazor.Server\\wwwroot\\images\\SplashScreen.svg",
+      "Identity": "C:\\Users\\chels\\Desktop\\DXApplication1\\DXApplication1.Blazor.Server\\wwwroot\\images\\SplashScreen.svg",
       "SourceId": "DXApplication1.Blazor.Server",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\chels\\source\\repos\\DXApplication1\\DXApplication1.Blazor.Server\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\chels\\Desktop\\DXApplication1\\DXApplication1.Blazor.Server\\wwwroot\\",
       "BasePath": "_content/DXApplication1.Blazor.Server",
       "RelativePath": "images/SplashScreen.svg",
       "AssetKind": "All",
