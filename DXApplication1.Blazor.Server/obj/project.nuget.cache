@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "TQyV6p8l2G9BvqR0vp+CUdYFkDba0jpVeBiW+/5MtANkgq0onW/UDadAXa39GotG4gsNohXx8J9lf6KEdyEOEw==",
+  "dgSpecHash": "b0Zec2UK9h0xYBjkgbY/8FyXZDHSiB3kH7lfqcaPA9F3mrRLq6e/eJAM6Q9Q6X+a0a1p0j3FCLxWJ8UEuZsIeA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\chels\\source\\repos\\DXApplication1\\DXApplication1.Blazor.Server\\DXApplication1.Blazor.Server.csproj",
+  "projectFilePath": "C:\\Users\\chels\\Desktop\\DXApplication1\\DXApplication1.Blazor.Server\\DXApplication1.Blazor.Server.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\chels\\.nuget\\packages\\aqua-core\\5.2.0\\aqua-core.5.2.0.nupkg.sha512",
     "C:\\Users\\chels\\.nuget\\packages\\aqua-core-text-json\\5.2.0\\aqua-core-text-json.5.2.0.nupkg.sha512",
